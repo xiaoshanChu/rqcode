@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">rqcode</string>
+    <string name="title_activity_camera">ddd</string>
+
+    <!--MainActivity相关的字符串-->
+    <string name="scan">扫描二维码</string>
+    <string name="generate">生成二维码</string>
+
+    <!--inputDialog相关的字符串-->
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="input_hint">请输入内容</string>
+
+    <!--扫描解析相关的字符串-->
+    <string name="encode_failure">解析失败</string>
+    <string name="select_pic">选择二维码图片</string>
+    <string name="open_camera">打开相机</string>
+
+    <!--相机相关的字符串-->
+    <string name="save_pic">保存画面</string>
+
+</resources>
